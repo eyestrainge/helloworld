@@ -4,6 +4,7 @@
   "description": "First time doing this",
   "main": "helloworld.js",
   "scripts": {
+    "start": "node --harmony helloworld.js"
     "test": "node_modules/mocha/bin/mocha"
   },
   "repository": {
